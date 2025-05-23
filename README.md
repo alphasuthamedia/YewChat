@@ -21,3 +21,6 @@ This repository is divided to branches that correspond to the blog post sections
 * websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
 
 ![1](static/1.png)
+
+creativity
+![2](static/2.png)
